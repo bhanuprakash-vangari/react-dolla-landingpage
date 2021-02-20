@@ -26,7 +26,7 @@ const Hero = () => {
       <HeroContent>
         <HeroH1>Virtual Banking Made Easy</HeroH1>
         <HeroP>
-          Sign up for a new accunt today and receive ₹2500 in credit towards
+          Sign up for a new account today and receive ₹2500 in credit towards
           your next payment.
         </HeroP>
         <HeroBtnWrapper>
