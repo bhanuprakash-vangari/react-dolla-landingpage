@@ -38,19 +38,19 @@ export const homeObjTwo = {
   img: img2,
 };
 export const homeObjThree = {
-  id: "services",
-  lightBg: false,
-  lightText: true,
-  lightTextDesc: true,
+  id: "signup",
+  lightBg: true,
+  lightText: false,
+  lightTextDesc: false,
   topLine: "Unlimited Payments",
   headline: "Unlimited Transactions with zero fees",
   description:
     "Get acess to our exclusive app that allows you to send unlimited transactions without getting charged any fees",
-  buttonLabel: "Pay Now",
+  buttonLabel: "Sign Up",
   imgStart: false,
   alt: "payments",
-  dark: true,
-  primary: true,
-  darkText: false,
+  dark: false,
+  primary: false,
+  darkText: true,
   img: img3,
 };
